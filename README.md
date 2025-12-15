@@ -233,6 +233,6 @@ User Action → AppContext → Component Update → UI Render → AsyncStorage P
 
 ## 👨‍💻 About the Developer
 
-**Khoa Phan** | Full-Stack Mobile Developer
+**Khoa Phan** | Full-Stack Developer/Student
 
 Passionate about creating intuitive, high-performance mobile applications that solve real-world problems. Specialized in React Native, TypeScript, and modern UI/UX design patterns.
